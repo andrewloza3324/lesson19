@@ -1,0 +1,22 @@
+
+.button{
+    margin-left: 40px;
+    border: 2px solid red;
+    display: inline-block;
+    background-color: aquamarine;
+    border-radius: 15px;
+   display: inline-block;
+   text-decoration: none;
+   padding: 7px 40px;
+}
+.instagram{
+    font-size: 30px;
+    padding-right: 15px;
+    color: white;
+}
+.text{
+    font-size: 30px;
+    font-family: monospace;
+    text-transform: uppercase;
+    color: white;
+}
